@@ -1,0 +1,14 @@
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\bin\Debug\IdleLootQuest.exe.config
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\bin\Debug\IdleLootQuest.exe
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\bin\Debug\IdleLootQuest.pdb
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.csprojResolveAssemblyReference.cache
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\MainWindow.g.cs
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\App.g.cs
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest_MarkupCompile.cache
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest_MarkupCompile.lref
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\MainWindow.baml
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.g.resources
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.Properties.Resources.resources
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.csproj.GenerateResource.Cache
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.exe
+c:\users\jbrau\documents\visual studio 2015\Projects\IdleLootQuest\IdleLootQuest\obj\Debug\IdleLootQuest.pdb
